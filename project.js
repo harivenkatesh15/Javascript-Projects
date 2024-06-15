@@ -4,7 +4,7 @@
 //To spin the symbols
 //To declare the wining amt
 //To ask wether wanted to play again or not
-
+//hello
 
 
 
